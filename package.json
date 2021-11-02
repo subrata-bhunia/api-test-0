@@ -1,0 +1,21 @@
+{
+  "name": "api-sql",
+  "version": "1.0.0",
+  "description": "Use MySql DB",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "my-sql"
+  ],
+  "author": "Subrata Bhunia",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moran": "^0.0.11",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.14"
+  }
+}
